@@ -1,5 +1,7 @@
 - This lexer was build in a python virtual environment running python version 3. It also uses python library ply
+  You can use `source bin/activate` to activate virtual environment
 - All files are located in the files directory. This project aims to create a simple lexer to perform arithmetic operations and generate a parse tree.
+  You can use `python main.py` to run the program
 - There are three main files we have main.py, passer.py and mylexer.py
 
 ## 1. main.py
