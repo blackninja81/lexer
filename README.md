@@ -1,3 +1,12 @@
+## Groupe Members
+- 121154 Curtis Thuranira
+- 134788 Adrian Wanjau
+- 135159 Eric Kabogo
+- 135580 Elvis Rono
+- 134442 Isaac Baimet
+- 95007 John Kaburu
+- 134678 Bridget Muthee
+
 - This lexer was build in a python virtual environment running python version 3. It also uses python library ply
   You can use `source bin/activate` to activate virtual environment
 - All files are located in the files directory. This project aims to create a simple lexer to perform arithmetic operations and generate a parse tree.
